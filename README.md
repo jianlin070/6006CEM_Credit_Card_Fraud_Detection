@@ -44,4 +44,3 @@ This repository contains code for a Credit Card Fraud Detection project using ma
 
 - Dataset: [Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) on Kaggle.
 
-Feel free to explore, modify, and enhance the code for your needs!
