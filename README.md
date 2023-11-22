@@ -18,7 +18,7 @@ This repository contains code for a Credit Card Fraud Detection project using ma
     Make sure you have the required dependencies installed. You can use the following command:
 
     ```bash
-    pip install -r requirements.txt
+    pip install pandas numpy matplotlib seaborn scikit-learn tensorflow keras
     ```
 
 3. **Import Data:**
